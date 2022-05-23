@@ -1,0 +1,147 @@
+# Copyright (C) 2018 ThemeIsle
+# This file is distributed under the no.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Addons & Templates - Sizzify Lite 1.2.6\n"
+"Report-Msgid-Bugs-To: "
+"https://github.com/Codeinwp/elementor-addon-widgets/issues\n"
+"POT-Creation-Date: 2018-11-07 17:59:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeisle Translate Team <friends@themeisle.com>\n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: eaw-class.php:98 eaw-class.php:112
+msgid "Sizzify Template Directory"
+msgstr ""
+
+#: eaw-class.php:139
+msgid "Sizzify"
+msgstr ""
+
+#: eaw-class.php:140
+msgid "More Features"
+msgstr ""
+
+#: eaw-class.php:170
+msgid "Sizzify Widgets"
+msgstr ""
+
+#: eaw-class.php:190
+msgid "Hive - Landing Page"
+msgstr ""
+
+#: eaw-class.php:191
+msgid ""
+"A clean and modern design perfectly suitable for both corporate and "
+"creative businesses. Its sections come with a professional vibe and "
+"engaging elements such as progress bars, checklists, business-oriented "
+"icons, statistics counter, team members, testimonials, and call-to-action "
+"buttons."
+msgstr ""
+
+#: eaw-class.php:194 eaw-class.php:201 eaw-class.php:208 eaw-class.php:215
+#: eaw-class.php:222 eaw-class.php:229
+msgid "Pro"
+msgstr ""
+
+#: eaw-class.php:197
+msgid "Hive - About Page"
+msgstr ""
+
+#: eaw-class.php:198
+msgid ""
+"A beautiful and complex layout for the About Us page, that allows you to "
+"introduce your team in a professional manner. The design of this page lets "
+"you highlight your team's skills, the services you provide, a hiring "
+"contact form for future members, and various other element styles - all put "
+"in the spotlight by a subtle orange color."
+msgstr ""
+
+#: eaw-class.php:204
+msgid "Sine - Landing Page"
+msgstr ""
+
+#: eaw-class.php:205
+msgid ""
+"This is an Elementor layout for digital agencies, meant to turn your "
+"business goals into conversions. The design catches your eye with its "
+"elegant parallax scrolling, classy color gradients, magazine-like "
+"typography, interactive counters and icons - all these elements being "
+"wrapped up in modern and joyful content blocks and forms."
+msgstr ""
+
+#: eaw-class.php:211
+msgid "Square - Landing Page"
+msgstr ""
+
+#: eaw-class.php:212
+msgid ""
+"A nice and complex landing page for products and apps, with a modern "
+"interface that combines orange and violet color tones. All the elements "
+"used in this layout are large and provide meaningful sections that describe "
+"your product comprehensively. The layout allows you to add videos, "
+"screenshots, pricing tables, progress bars and counters - all presented in "
+"a beautiful full-screen design."
+msgstr ""
+
+#: eaw-class.php:218
+msgid "Tekt - Landing Page"
+msgstr ""
+
+#: eaw-class.php:219
+msgid ""
+"A layout for architects and interior design agencies, with a clean and "
+"simple interface. The full-width header, the modern content blocks, and the "
+"parallax backgrounds - all completed by the minimalist approach - make this "
+"template a perfect fit for your architecture agency."
+msgstr ""
+
+#: eaw-class.php:225
+msgid "Tekt - About Page"
+msgstr ""
+
+#: eaw-class.php:226
+msgid ""
+"This is the About page of a business based on interior design and "
+"architecture, which allows you to beautifully showcase your team members. "
+"Apart from introducing the team, you have modern blocks and toggle elements "
+"where you can talk more about your agency: add values, services, "
+"statistics, and images."
+msgstr ""
+
+#: eaw-class.php:273 eaw-class.php:282
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Elementor Addons & Templates - Sizzify Lite"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds new Addons & Widgets that are specifically designed to be used in "
+"conjunction with the Elementor Page Builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr ""
